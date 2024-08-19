@@ -1,7 +1,7 @@
-[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/banner2.png)](https://github.com/Arindam200)
+[![MasterHead](https://github.com/Arindam200/Arindam200/blob/main/banner2.png)](https://github.com/12testgl)
 
 <h1 align="center">
-Arindam Majumder
+12 test GL
 </h1>
  
 - 🛠️ DevRel @Pieces.app
